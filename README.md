@@ -48,4 +48,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Code i run to built this project
 
 1. npx create-react-app my-portfolio
-2. 
+2. npm start
+3. 

@@ -49,4 +49,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 1. npx create-react-app my-portfolio
 2. npm start
-3. 
+3. npm install react-icons --save
+
+## Resources 
+
+https://react-icons.github.io/react-icons

@@ -10,7 +10,7 @@
 
 ## Resources 
 
-https://react-icons.github.io/react-icons
+https://react-icons.github.io/react-icons <br/>
 https://swiperjs.com/react
 https://www.emailjs.com/
 https://www.emailjs.com/docs/examples/reactjs/

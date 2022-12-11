@@ -11,6 +11,6 @@
 ## Resources 
 
 https://react-icons.github.io/react-icons <br/>
-https://swiperjs.com/react
-https://www.emailjs.com/
-https://www.emailjs.com/docs/examples/reactjs/
+https://swiperjs.com/react <br/>
+https://www.emailjs.com/ <br/>
+https://www.emailjs.com/docs/examples/reactjs/ <br/>

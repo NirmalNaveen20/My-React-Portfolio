@@ -1,4 +1,4 @@
-# Getting Started with My React Portfolio Website
+# Getting Started with My React Portfolio App
 
 ## Dependencies
 

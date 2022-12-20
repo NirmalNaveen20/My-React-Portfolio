@@ -12,6 +12,13 @@
     transition: var(--transition);
 }
 
+/*CLOUD */
+.cloud__width {
+    width: auto;
+}
+
+
+
 .experience__container > div:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
@@ -29,6 +36,7 @@
     grid-template-columns: 1fr 1fr;
     row-gap: 2rem;
 }
+
 
 .experience__details {
     display: flex;

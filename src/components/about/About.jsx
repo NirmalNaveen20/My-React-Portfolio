@@ -29,18 +29,20 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>100+ Worldwide</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>90+ Completed</small>
+              <small>10+ Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque dolore, repellat cumque sapiente expedita quos dignissimos, aliquam voluptatibus, accusantium reiciendis aliquid. Dignissimos deleniti non dolorem eum voluptate natus repudiandae? Saepe.
+          I'm a 3rd-year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT),
+          My passion for technology made me fall in love with Cloud Computing.
+          I am most passionate about cloud computing and web frameworks. And I stay in tune with the latest technologies in the current tech world.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

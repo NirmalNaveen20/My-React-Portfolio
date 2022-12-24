@@ -17,23 +17,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>AWS DevOps Support Architect</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>Create AWS Lambda functions in Python</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>Setup and manage AWS infrastructure, as DevOps Engineer</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>AWS Cloud Assignments and Projects</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>Deploy your application on AWS EC2</p>
             </li>
           </ul>
         </article>
@@ -48,27 +48,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>Develop websites in MERN Stack <br />(MongoDB, Express, ReactJS, NodeJS)</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>Create React App Using Material UI</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>Develop a High Performance web site using React</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>Develop Web based applications</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>Deploy Website on the cloud</p>
             </li>
           </ul>
         </article>
@@ -83,27 +79,15 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>Update Soon..!</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>Update Soon..!</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, labore.</p>
+              <p>Update Soon..!</p>
             </li>
           </ul>
         </article>

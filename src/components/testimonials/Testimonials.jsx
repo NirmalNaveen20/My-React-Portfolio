@@ -1,9 +1,7 @@
 import React from 'react'
 import './testimonials.css'
 import AVTR1 from '../../assets/avatar1.jpg'
-import AVTR2 from '../../assets/avatar2.jpg'
-import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar4.jpg'
+
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -19,23 +17,8 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: 'Tina Show',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, vel. Nisi officia laborum dolores non dolorem molestiae! Ipsa, sed ad'
-  },
-  {
-    avatar: AVTR2,
-    name: 'Engin Nora',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, vel. Nisi officia laborum dolores non dolorem molestiae! Ipsa, sed ad'
-  },
-  {
-    avatar: AVTR3,
-    name: 'Millie Bobby',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, vel. Nisi officia laborum dolores non dolorem molestiae! Ipsa, sed ad'
-  },
-  {
-    avatar: AVTR4,
-    name: 'Jatena Morgan',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, vel. Nisi officia laborum dolores non dolorem molestiae! Ipsa, sed ad'
+    name: 'Ganga Imesha',
+    review: 'From the start of my web project, through to completion, Nirmal supported me and exceeded our expectations in every way. He is reliable, professional and easy to work with'
   },
 ]
 

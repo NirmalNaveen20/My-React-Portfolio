@@ -7,7 +7,7 @@ import {GrFacebook} from 'react-icons/gr'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>My Logo</a>
+      <a href="#" className='footer__logo'>Nirmal Naveen</a>
 
       <ul className='permalinks'>
         <li><a href="#H">Home</a></li>
@@ -20,9 +20,9 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com"><GrFacebook /></a>
-        <a href="https://github.com"><BsGithub /></a>
-        <a href="https://linkdin.com"><BsLinkedin /></a>
+        <a href="https://www.facebook.com/people/Nirmal-Naveen/100011583663817/"><GrFacebook /></a>
+        <a href="https://github.com/NirmalNaveen20"><BsGithub /></a>
+        <a href="https://www.linkedin.com/in/nirmal-naveen/"><BsLinkedin /></a>
       </div>
 
       <div className="footer__copyright">

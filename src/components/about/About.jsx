@@ -14,7 +14,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt="About Image" />
+            <img src={ME} alt="About Me" />
           </div>
         </div>
 
@@ -44,7 +44,7 @@ const About = () => {
           I am most passionate about cloud computing and web frameworks. And I stay in tune with the latest technologies in the current tech world.
           </p>
 
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className='btn btn-primary'>Hire Me</a>
         </div>
       </div>
     </section>

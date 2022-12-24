@@ -11,42 +11,42 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'This is title one',
+    title: 'Update Soon..!',
     github: 'https://github.com/NirmalNaveen20',
     demo: 'https://dribble.com/Alien_pixels'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'This is title two',
+    title: 'Update Soon..!',
     github: 'https://github.com/NirmalNaveen20',
     demo: 'https://dribble.com/Alien_pixels'
   },
   {
     id: 3,
     image: IMG2,
-    title: 'This is title three',
+    title: 'Update Soon..!',
     github: 'https://github.com/NirmalNaveen20',
     demo: 'https://dribble.com/Alien_pixels'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'This is title four',
+    title: 'Update Soon..!',
     github: 'https://github.com/NirmalNaveen20',
     demo: 'https://dribble.com/Alien_pixels'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'This is title five',
+    title: 'Update Soon..!',
     github: 'https://github.com/NirmalNaveen20',
     demo: 'https://dribble.com/Alien_pixels'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'This is title six',
+    title: 'Update Soon..!',
     github: 'https://github.com/NirmalNaveen20',
     demo: 'https://dribble.com/Alien_pixels'
   }

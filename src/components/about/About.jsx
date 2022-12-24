@@ -38,7 +38,6 @@ const About = () => {
               <small>10+ Completed</small>
             </article>
           </div>
-
           <p>
           I'm a 3rd-year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT),
           My passion for technology made me fall in love with Cloud Computing.

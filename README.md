@@ -1,5 +1,7 @@
 # Getting Started with My React Portfolio App
 
+![nirmal-naveen](https://user-images.githubusercontent.com/53178630/210151921-03ff369f-3853-4823-b20b-ad7a6bb9db94.gif)
+
 ## Dependencies
 
 1. npx create-react-app my-portfolio
@@ -8,7 +10,7 @@
 4. npm install swiper
 5. npm install emailjs-com --save
 
-![nirmal-naveen](https://user-images.githubusercontent.com/53178630/210151921-03ff369f-3853-4823-b20b-ad7a6bb9db94.gif)
+
 
 
 ## Resources 

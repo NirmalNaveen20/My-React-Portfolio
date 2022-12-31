@@ -36,8 +36,6 @@ EmailJS helps sending emails using client side technologies only.
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Resources i used to build portfolio
-
 https://react-icons.github.io/react-icons <br/>
 https://swiperjs.com/react <br/>
 https://www.emailjs.com/ <br/>

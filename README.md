@@ -1,6 +1,5 @@
 # Getting Started with My React Portfolio App
 
-![nirmal-naveen](https://user-images.githubusercontent.com/53178630/210151921-03ff369f-3853-4823-b20b-ad7a6bb9db94.gif)
 ![nirmal-naveen-react](https://user-images.githubusercontent.com/53178630/210152390-3f5da855-6303-4f4a-8ba0-82095cf83e8c.gif)
 
 ## Available Scripts

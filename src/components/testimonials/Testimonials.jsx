@@ -1,6 +1,8 @@
 import React from 'react'
 import './testimonials.css'
-import AVTR1 from '../../assets/avatar1.jpg'
+import US from '../../assets/US.png'
+import NL from '../../assets/NL.png'
+import BL from '../../assets/BL.png'
 
 
 // import Swiper core and required modules
@@ -16,11 +18,24 @@ import 'swiper/css/pagination';
 
 const data = [
   {
-    avatar: AVTR1,
-    name: 'Ganga Imesha',
-    review: 'From the start of my web project, through to completion, Nirmal supported me and exceeded our expectations in every way. He is reliable, professional and easy to work with'
+    avatar: US,
+    name: '- Michael Crandall - ',
+    review: 'Very communicative and helpful throughout the process. He helped me move our entire server from SlowDaddy (GoDaddy) to Amazon AWS, and made the process feel easy and seamless. Will work with him moving forward.'
+  },
+
+  {
+    avatar: NL,
+    name: '- Jessey Samuels - ',
+    review: 'He is a great worker and provides excellent service. I highly recommend him. His attitude is one of his greatest assets.'
+  },
+
+  {
+    avatar: BL,
+    name: '- Christoffel Gerretsen - ',
+    review: 'Work was amazing, all delivered as promised, the communication was excellent!'
   },
 ]
+
 
 const Testimonials = () => {
   return (
@@ -41,8 +56,9 @@ const Testimonials = () => {
               <SwiperSlide key={index} className="testimonials">
               <div className="client__avatar">
                 <img src={avatar} />
-              </div>
-              <h5 className='client__name'> {name} </h5>
+                </div>
+                
+              <h5 className='client__name'><b>Fiverr</b> {name} </h5>
               <small className='client__review'> {review} </small>
               </SwiperSlide>
             )

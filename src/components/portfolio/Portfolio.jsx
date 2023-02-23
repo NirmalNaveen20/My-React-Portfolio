@@ -1,55 +1,30 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import MERN from '../../assets/MERN.jpeg'
+import ANDROID from '../../assets/Android.png'
+import AI from '../../assets/AI.jpg'
+
 
 const data = [
   {
     id: 1,
-    image: IMG1,
-    title: 'Update Soon..!',
-    github: 'https://github.com/NirmalNaveen20',
-    demo: 'https://dribble.com/Alien_pixels'
+    image: AI,
+    title: 'Alan AI News Web Application',
+    github: 'https://github.com/NirmalNaveen20/Alan-AI-News-Web-Application',
+    demo: 'https://ai-alan.netlify.app/'
   },
   {
     id: 2,
-    image: IMG2,
-    title: 'Update Soon..!',
-    github: 'https://github.com/NirmalNaveen20',
-    demo: 'https://dribble.com/Alien_pixels'
+    image: MERN,
+    title: 'Livecare Hospitals',
+    github: 'https://github.com/NirmalNaveen20/Livecare-Hospital-Admin',
   },
   {
     id: 3,
-    image: IMG2,
-    title: 'Update Soon..!',
-    github: 'https://github.com/NirmalNaveen20',
-    demo: 'https://dribble.com/Alien_pixels'
+    image: ANDROID,
+    title: 'EatUp-FoodApp',
+    github: 'https://github.com/NirmalNaveen20/EatUp-FoodApp',
   },
-  {
-    id: 4,
-    image: IMG4,
-    title: 'Update Soon..!',
-    github: 'https://github.com/NirmalNaveen20',
-    demo: 'https://dribble.com/Alien_pixels'
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: 'Update Soon..!',
-    github: 'https://github.com/NirmalNaveen20',
-    demo: 'https://dribble.com/Alien_pixels'
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'Update Soon..!',
-    github: 'https://github.com/NirmalNaveen20',
-    demo: 'https://dribble.com/Alien_pixels'
-  }
 ]
 
 const Portfolio = () => {

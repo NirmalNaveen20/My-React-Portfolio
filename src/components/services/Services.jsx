@@ -11,7 +11,7 @@ const Services = () => {
       <div className="container services__container">
         <article className='service'>
           <div className='service__head'>
-            <h3>Cloud Computing</h3>
+            <h3>Cloud Services</h3>
           </div>
 
           <ul className='service__list'>
@@ -71,28 +71,7 @@ const Services = () => {
 
         {/* END OF WEB DEVELOPMENT */}
 
-        <article className='service'>
-          <div className='service__head'>
-            <h3>API SERVICES</h3>
-          </div>
-
-          <ul className='service__list'>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Update Soon..!</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Update Soon..!</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Update Soon..!</p>
-            </li>
-          </ul>
-        </article>
-
-        {/* END OF API SERVICES */}
+        
 
       </div>
     </section>

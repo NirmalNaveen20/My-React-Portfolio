@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import MERN from '../../assets/MERN.jpeg'
-import Android from '../../assets/Android.png'
+import ANDROID from '../../assets/Android.png'
 import AI from '../../assets/AI.jpg'
 
 
@@ -21,8 +21,8 @@ const data = [
   },
   {
     id: 3,
-    image: Android,
-    title: ' EatUp-FoodApp',
+    image: ANDROID,
+    title: 'EatUp-FoodApp',
     github: 'https://github.com/NirmalNaveen20/EatUp-FoodApp',
   },
 ]
